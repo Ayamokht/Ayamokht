@@ -76,11 +76,5 @@ En alternance chez Crédit Mutuel Factoring en tant que **Data Scientist**, j’
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter%20Mon%20Site-blue?style=flat&logo=github)](https://ayamokht.github.io/CV_Aya_MOKHTAR/)
 
----
 
-## Mon activité GitHub (Heatmap)
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AyaMokhtar&theme=dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
