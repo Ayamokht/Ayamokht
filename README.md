@@ -26,5 +26,14 @@ En alternance chez Crédit Mutuel Factoring en tant que **Data Scientist**, j’
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayamokht&theme=dark" alt="GitHub Streak" width="400"/>
 </p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Ayamokht&layout=compact&theme=dark&langs_count=6
+---
 
+## 🌐 Langages les plus utilisés
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayamokht&layout=compact&theme=light&langs_count=5" 
+    alt="Top Langs" 
+    width="400" 
+  />
+</p>
