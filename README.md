@@ -6,8 +6,7 @@
 
 Je m’appelle **Aya Mokhtar**,  
 je suis actuellement en **Master 2 Data Science** à l’université Panthéon-Sorbonne Paris 1.  
-En alternance chez Crédit Mutuel Factoring en tant que **Data Scientist**,  
-j’explore le monde fascinant de la modélisation, du Machine Learning !
+En alternance chez Crédit Mutuel Factoring en tant que **Data Scientist**, j’explore le monde fascinant de la modélisation, du Machine Learning !
 
 ---
 
