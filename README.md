@@ -40,7 +40,7 @@ En alternance chez Crédit Mutuel Factoring en tant que **Data Scientist**, j’
 
 ---
 
-## 🛠️ Compétences & Tech Stack
+## Compétences & Tech Stack
 
 - **Langages** :  
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)  
