@@ -28,7 +28,7 @@ En alternance chez Crédit Mutuel Factoring en tant que **Data Scientist**, j’
 
 ---
 
-## 🌐 Langages les plus utilisés
+## Langages les plus utilisés
 
 <p align="center">
   <img 
@@ -37,3 +37,9 @@ En alternance chez Crédit Mutuel Factoring en tant que **Data Scientist**, j’
     width="400" 
   />
 </p>
+
+---
+
+## Mon Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter%20Mon%20Site-blue?style=flat&logo=github)](https://ayamokht.github.io/CV_Aya_MOKHTAR/)
