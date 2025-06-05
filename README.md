@@ -1,8 +1,3 @@
-<!-- ====== Bandeau d’en-tête ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MonPseudo/MonPseudo/main/assets/banner.png" alt="Bannière" width="800"/>
-</p>
-
 # Bienvenue sur mon GitHub 🚀
 
 ---
@@ -27,8 +22,8 @@ j’explore le monde fascinant de la modélisation, du Machine Learning !
 
 <p align="center">
   <!-- Carte de statistiques globales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MonPseudo&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayamokht&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="400"/>
   <!-- Carte de streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonPseudo&theme=dark" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayamokht&theme=dark" alt="GitHub Streak" width="400"/>
 </p>
 
