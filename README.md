@@ -1,101 +1,130 @@
-# Bienvenue sur mon GitHub
+# 👋 Bonjour, je suis Aya Mokhtar
+
+### Data Scientist | Machine Learning • Data • Generative AI
+
+🎓 Diplômée du **Master 2 MoSEF – Modélisation Statistique, Économique et Financière**  
+à **Paris 1 Panthéon-Sorbonne**
+
+💼 Expérience en Data Science dans les secteurs **bancaire et retail**  
+📊 Spécialisée en **Machine Learning, modélisation statistique et analyse de données**  
+🤖 Montée en compétences en **IA Générative, LLM & RAG**  
+☁️ Développement de compétences en **Azure, Spark / PySpark & Databricks**  
+📍 Paris • Mobile en France
 
 ---
 
-# 👋 Bonjour, je suis Aya Mokhtar
+## 👩‍💻 À propos de moi
 
-🎓 Data Scientist diplômée du Master MoSEF – Paris 1 Panthéon-Sorbonne  
-💼 Expérience en Data Science dans les secteurs bancaire et retail  
-🤖 Intérêt particulier : Machine Learning, IA Générative & LLM  
-☁️ Cloud & Big Data : Azure, Spark / PySpark, Databricks  
-📍 Paris – Mobile en France
+Data Scientist de formation, j'ai travaillé sur des problématiques de
+**modélisation prédictive, scoring de risque, segmentation et analyse de données**,
+notamment chez Crédit Mutuel Factoring et METRO France.
 
-Après des expériences en Data Science chez Crédit Mutuel Factoring et METRO France,
-je poursuis activement le développement de mes compétences en Machine Learning,
-IA générative, Cloud et Big Data à travers des projets personnels.
+Curieuse et en apprentissage continu, je développe actuellement mes compétences
+autour de l'**IA Générative, du Big Data et du Cloud**, en complément de mon
+socle en Machine Learning et statistiques.
 
-## 🔬 Ce sur quoi je travaille actuellement
+Ce GitHub regroupe mes projets en **Data Science, Machine Learning, NLP,
+analyse de données et modélisation**, ainsi que mes futurs travaux autour
+des technologies GenAI.
 
-- LLM & Retrieval-Augmented Generation (RAG)
-- Agents IA et applications GenAI
-- Machine Learning & NLP
-- Spark / PySpark & Databricks
-- Azure & déploiement de solutions Data
-- MLOps : MLflow, Docker, FastAPI
+---
 
-## 🛠️ Stack
+## 🔬 Compétences que j'approfondis actuellement
 
-Python • SQL • scikit-learn • XGBoost • Pandas • PySpark  
-LangChain • Transformers • RAG • LLM • FastAPI  
-Azure • Databricks • BigQuery • MLflow • Docker • Git
+🤖 **IA Générative** — LLM, RAG, embeddings, prompt engineering  
+⚡ **Big Data** — Spark, PySpark, Spark SQL, Databricks  
+☁️ **Cloud** — Microsoft Azure  
+🚀 **MLOps & déploiement** — MLflow, Docker, FastAPI  
+
+---
+
+## 🏆 Projets Data Science
+
+### 🥉 Sorbonne Data Challenge — Détection de comportements malveillants
+
+Développement d'une solution de détection de comportements malveillants
+à partir de données textuelles et de graphe, dans le cadre d'un challenge
+réalisé en partenariat avec le **ministère de l'Intérieur**.
+
+🏆 **3ᵉ place au challenge**
+
+`Python` `NLP` `Machine Learning` `TF-IDF` `XGBoost`
+
+---
+
+### 🥇 HP Challenge — Réduction de l'empreinte carbone
+
+Analyse de données logistiques internationales et formulation de
+recommandations d'optimisation afin de contribuer à un objectif de
+réduction de l'empreinte carbone.
+
+🏆 **1ʳᵉ place au challenge**
+
+`Data Analysis` `Python` `Optimisation` `Data Visualisation`
+
+---
+
+### 📡 Nexialog — Détection d'anomalies réseau SFR
+
+Analyse de données réseau, création d'indicateurs et détection
+de comportements atypiques, avec restitution des résultats
+à travers une application interactive.
+
+`Python` `Machine Learning` `Anomaly Detection` `Data Visualisation`
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Machine_Learning-orange)
+
+### 🤖 IA Générative — en développement
+
+![LLM](https://img.shields.io/badge/LLM-Generative_AI-purple)
+![RAG](https://img.shields.io/badge/RAG-GenAI-purple)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow)
+
+### ⚡ Big Data & Cloud
+
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
+
+### 🚀 Outils
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayamokht&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayamokht&layout=compact&hide_border=true&langs_count=6" height="165"/>
+</p>
 
 ---
 
 ## 📬 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/aya-mokhtar810b4b216/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mokhtar.aya2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aya_Mokhtar-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-mokhtar810b4b216/)
+
+[![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?logo=gmail&logoColor=white)](mailto:mokhtar.aya2001@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Voir_mes_projets-181717?logo=github&logoColor=white)](https://ayamokht.github.io/CV_Aya_MOKHTAR/)
 
 ---
 
-## 📊 Mes GitHub Stats
-
-<p align="center">
-  <!-- Carte de statistiques globales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayamokht&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="400"/>
-  <!-- Carte de streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayamokht&theme=dark" alt="GitHub Streak" width="400"/>
-</p>
-
----
-
-## Langages les plus utilisés
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayamokht&layout=compact&theme=light&langs_count=5" 
-    alt="Top Langs" 
-    width="400" 
-  />
-</p>
-
----
-
-## Compétences & Tech Stack
-
-- **Langages** :  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)  
-  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
-- **Data Science & Machine Learning** :  
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)  
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-
-- **Visualisation & BI** :  
-  ![Tableau](https://img.shields.io/badge/Tableau-3673A5?logo=tableau&logoColor=white&style=flat)  
-  ![PowerBI](https://img.shields.io/badge/PowerBI-009FDA?logo=power-bi&logoColor=white&style=flat)  
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat)
-
-- **Cloud & DevOps** :  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)  
-  ![GCP](https://img.shields.io/badge/GCP-F95123?logo=google-cloud&logoColor=white&style=flat)  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-
-- **Outils & Autres** :  
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)  
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  
-  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-
----
-
-## Mon Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter%20Mon%20Site-blue?style=flat&logo=github)](https://ayamokht.github.io/CV_Aya_MOKHTAR/)
-
-
-
+⭐ **Apprendre, expérimenter et transformer la Data en solutions concrètes.**
