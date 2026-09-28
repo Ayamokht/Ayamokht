@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Aya Mokhtar
+# 👋 Aya Mokhtar | Data Scientist
 
 ### Data Scientist | Machine Learning • Data • Generative AI
 
