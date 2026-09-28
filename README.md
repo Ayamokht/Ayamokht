@@ -2,11 +2,32 @@
 
 ---
 
-## 👩‍💻 Qui suis-je ?
+# 👋 Bonjour, je suis Aya Mokhtar
 
-Je m’appelle **Aya Mokhtar**,  
-je suis actuellement en **Master 2 Data Science** à l’université Panthéon-Sorbonne Paris 1.  
-En alternance chez Crédit Mutuel Factoring en tant que **Data Scientist**, j’explore le monde fascinant de la modélisation, du Machine Learning !
+🎓 Data Scientist diplômée du Master MoSEF – Paris 1 Panthéon-Sorbonne  
+💼 Expérience en Data Science dans les secteurs bancaire et retail  
+🤖 Intérêt particulier : Machine Learning, IA Générative & LLM  
+☁️ Cloud & Big Data : Azure, Spark / PySpark, Databricks  
+📍 Paris – Mobile en France
+
+Après des expériences en Data Science chez Crédit Mutuel Factoring et METRO France,
+je poursuis activement le développement de mes compétences en Machine Learning,
+IA générative, Cloud et Big Data à travers des projets personnels.
+
+## 🔬 Ce sur quoi je travaille actuellement
+
+- LLM & Retrieval-Augmented Generation (RAG)
+- Agents IA et applications GenAI
+- Machine Learning & NLP
+- Spark / PySpark & Databricks
+- Azure & déploiement de solutions Data
+- MLOps : MLflow, Docker, FastAPI
+
+## 🛠️ Stack
+
+Python • SQL • scikit-learn • XGBoost • Pandas • PySpark  
+LangChain • Transformers • RAG • LLM • FastAPI  
+Azure • Databricks • BigQuery • MLflow • Docker • Git
 
 ---
 
